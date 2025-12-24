@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there, I'm Bailasan 👋
 
-<!--
-**bailas2310/bailas2310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Frontend Developer | UI/UX Designer
 
-Here are some ideas to get you started:
+I'm a passionate frontend developer who loves creating beautiful, intuitive, and performant web applications. I specialize in modern JavaScript frameworks and have a keen eye for design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technologies & Tools
+
+**Frontend Development:**
+- ⚛️ React.js
+- 💚 Vue.js
+- 🔷 TypeScript
+- 🎨 HTML5 & CSS3
+- ⚡ JavaScript (ES6+)
+
+**UI/UX Design:**
+- 🎨 Figma
+- ✨ Adobe XD
+- 🖌️ User Interface Design
+- 📱 Responsive Design
+- 🧩 Design Systems
+
+### 💼 What I Do
+
+- Build scalable and maintainable web applications
+- Create pixel-perfect, responsive user interfaces
+- Design intuitive user experiences
+- Transform designs into clean, efficient code
+- Collaborate with teams to deliver high-quality products
+
+### 🌱 Currently Learning
+
+Always expanding my skills and staying up-to-date with the latest web technologies and design trends.
+
+### 📊 GitHub Stats
+
+![Bailasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bailas2310&show_icons=true&theme=radical)
+
+### 🔥 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bailas2310&layout=compact&theme=radical)
+
+---
+
+⭐️ From [Bailasan](https://github.com/bailas2310)
